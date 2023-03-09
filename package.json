@@ -1,0 +1,14 @@
+{
+  "name": "processo-seletivo-job-rotation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "fibonacci": "node Fibonacci/index.js",
+    "faturamento": "node Faturamento/index.js",
+    "estado": "node Faturamento_Mensal_Estado/index.js",
+    "inverta": "node inverta_caracteres/index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
